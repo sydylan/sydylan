@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi!
+
+I'm Dylan and I'm a fullstack software engineer. 
+
+I like making cool stuff that solves real problems.
+
+I am currently looking for an entry-level software engineering role.
+
+Fun fact: I love boxing, I like working out, and I love tweeting. Feel free to talk to me about anything!
 
 <!--
 **sydylan/sydylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
