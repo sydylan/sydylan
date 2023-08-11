@@ -1,6 +1,6 @@
 Hi!
 
-I'm Dylan and I'm a fullstack software engineer. 
+My name is Dylan and I am a fullstack software engineer. 
 
 I like making cool stuff that solves real problems.
 
