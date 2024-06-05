@@ -1,12 +1,8 @@
-Hi!
+Hey, nice to meet you.
 
-My name is Dylan and I am a fullstack software engineer. 
+I'm Dylan Sy, a Software Engineer.
 
-I like making cool stuff that solves real problems.
-
-I am currently looking for an entry-level software engineering role.
-
-Fun fact: I love boxing, I like working out, and I love tweeting. Feel free to talk to me about anything!
+I like making stuff people actually want.
 
 <!--
 **sydylan/sydylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
