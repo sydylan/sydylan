@@ -1,8 +1,4 @@
-Hey, nice to meet you.
-
-I'm Dylan Sy, a Software Engineer.
-
-I like making stuff people actually want.
+I like making stuff people want.
 
 <!--
 **sydylan/sydylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
